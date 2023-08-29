@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874512350766",
+    "project_id": "vines-e4f05",
+    "storage_bucket": "vines-e4f05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874512350766:android:54c2ef0933fe3fe3eda9bf",
+        "android_client_info": {
+          "package_name": "com.example.vines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874512350766-k7g689irdbi36l6c8n25t8us21i46hkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vines",
+            "certificate_hash": "6cd84cd7f74f7aec7338a15848055e721341861f"
+          }
+        },
+        {
+          "client_id": "874512350766-ueajq3qjidfbqg2e8709o2nh3hbg4a4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY3XzHChCdAJTCfsVDsvlvnHX5EDOENpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874512350766-ueajq3qjidfbqg2e8709o2nh3hbg4a4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

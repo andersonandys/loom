@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">874512350766-ueajq3qjidfbqg2e8709o2nh3hbg4a4g.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">874512350766</string>
+    <string name="google_api_key" translatable="false">AIzaSyCY3XzHChCdAJTCfsVDsvlvnHX5EDOENpo</string>
+    <string name="google_app_id" translatable="false">1:874512350766:android:54c2ef0933fe3fe3eda9bf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCY3XzHChCdAJTCfsVDsvlvnHX5EDOENpo</string>
+    <string name="google_storage_bucket" translatable="false">vines-e4f05.appspot.com</string>
+    <string name="project_id" translatable="false">vines-e4f05</string>
+</resources>
